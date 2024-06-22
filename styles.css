@@ -25,3 +25,13 @@ body {
   font-size: 14px;
   color: #666;
 }
+
+.contact-links {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.contact-links a {
+  margin: 0 10px;
+  white-space: nowrap;
+}
