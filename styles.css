@@ -28,7 +28,7 @@ body {
 
 .contact-links {
   margin-top: 10px;
-  text-align: center;
+  /*text-align: left; */
 }
 
 .contact-links a {
