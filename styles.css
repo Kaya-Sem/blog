@@ -35,3 +35,23 @@ body {
   margin: 0 10px;
   white-space: nowrap;
 }
+
+.journal-entry {
+  background-color: #f9f9f9;
+  border-left: 4px solid #007bff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.journal-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.journal-content {
+  font-size: 16px;
+  color: #333;
+}
