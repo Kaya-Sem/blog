@@ -6,19 +6,25 @@ body {
   padding: 0;
 }
 
+.container {
+  max-width: 800px; /* Set the desired max-width */
+  margin: 0 auto; /* Center the container */
+  padding: 0 20px; /* Add some padding for better spacing */
+}
+
 .post {
   background-color: #ffffff;
   border-radius: 8px;
-  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
-  padding: 20px;
+  padding: 10px;
+  font-size: 20px;
   margin-bottom: 20px;
 }
 
 .post-title {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
   color: #333;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .post-date {
@@ -28,7 +34,6 @@ body {
 
 .contact-links {
   margin-top: 10px;
-  /*text-align: left; */
 }
 
 .contact-links a {
@@ -45,14 +50,14 @@ body {
 }
 
 .journal-title {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   color: #333;
   margin-bottom: 10px;
 }
 
 .journal-content {
-  font-size: 16px;
+  font-size: 20px;
   color: #333;
 }
 
@@ -61,14 +66,14 @@ body {
   padding: 0;
   margin: 0;
   display: flex;
+  justify-content: center; /* Center the nav items */
 }
 
 .nav-list li {
-  margin-right: 20px;
-  margin-left: 20px;
+  margin: 0 20px;
 }
 
 .nav-list li a {
-  text-decoration: none; /* Remove underline from links */
-  color: blue; /* Link color */
+  text-decoration: none;
+  color: blue;
 }
