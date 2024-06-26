@@ -52,26 +52,26 @@ content has benefits:
   consuming slow media? Be brutally honest with yourself. Is it a crutch
   to fill a void?
 
-        How to be intentional
-        You need to find better ways of consuming and interacting with your
-        preferred media. Ways that are less destructive to your day to day life.
-        We need to get away as far as possible from the algorithms. Here are
-        some ways you you can manage various services and media: **Dumbphones**
-        you can do anything, but you wouldn't want to -> the benefits of using a
-        dumb-phone
-        https://www.creativeboom.com/features/the-smart-choice-why-creatives-should-switch-to-a-dumb-phone/
-        https://www.theglobeandmail.com/opinion/article-how-my-dumbphone-made-me-smarter/
-        #TODO split into separate post? **Instagram** **Youtube** **TikTok**
-        **Vinted** RSS feeds! your own curated stream with clear boundaries They
-        seem archaic, but are still widely used, and may become your best
-        friend. They allow you to be very picky about what you are being
-        presented.
+  How to be intentional
+  You need to find better ways of consuming and interacting with your
+  preferred media. Ways that are less destructive to your day to day life.
+  We need to get away as far as possible from the algorithms. Here are
+  some ways you you can manage various services and media: **Dumbphones**
+  you can do anything, but you wouldn't want to -> the benefits of using a
+  dumb-phone
+  https://www.creativeboom.com/features/the-smart-choice-why-creatives-should-switch-to-a-dumb-phone/
+  https://www.theglobeandmail.com/opinion/article-how-my-dumbphone-made-me-smarter/
+  #TODO split into separate post? **Instagram** **Youtube** **TikTok**
+  **Vinted** RSS feeds! your own curated stream with clear boundaries They
+  seem archaic, but are still widely used, and may become your best
+  friend. They allow you to be very picky about what you are being
+  presented.
 
 #### Anti-human design
 
-        through and through designed with revenue in mind. You are a mere
-        product and you do not matter. You are being farmed for screen time, for
-        those oh-so-sweet advertiser dollars. Nothing they do is for your
-        benefit.
+Through and through designed with revenue in mind. You are a mere
+product and you do not matter. You are being farmed for screen time, for
+those oh-so-sweet advertiser dollars. Nothing they do is for your
+benefit.
 
 #### Opinions
