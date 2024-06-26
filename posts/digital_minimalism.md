@@ -22,50 +22,52 @@ content has benefits:
 - entertainment
 - Milk
 
-  but it has to be consumed in just the right amount, lest you burn
-  yourself. It is up to you to find a middle-road that works for you, but
-  when in doubt, it is better to err on the side of less rather than more.
-  Whether you endlessly scroll feel-good videos, or are addicted to
-  scrolling feeds, you need to think about the amount of time you spend on
-  that media, and where the line of diminishing returns start. At what
-  point have you maximized your time online, and at what point does
-  consuming any more of it not lead to anything significant? The online
-  Goldilocks zone is that fine border where you benefit most from it,
-  without wasting any extra wasteful time. ### Being intentional Recently,
-  I have grown shrewd of black-and-white thinking, preferring and enjoying
-  more nuanced ways of evaluating the world. As such, I cannot declare
-  these platforms or technology as the devil. (inter) Objectively, they do
-  have the ability to improve our quality of life. Yet, people are
-  laughably bad at controlling impulses, and are easily led by their
-  instinct and intrinsic wiring. A solution I found helpful is being
-  intentional. It is almost impossible and quite crude to simply avoid it
-  all together. There is no need to completely throw out social media and
-  digital consumption, but the way we interact with these systems is the
-  culprit. The problem is less in the content itself (a symptom) and more
-  in the way it is watched, consumed and interacted with. For many,
-  looking from outside in, it has ceased to be entertainment or
-  "inspiration", and rather has become a routine. An unconscious habit. An
-  addiction, even. Ask yourself the question: What do I really want to
-  gain from this interaction? ... Are you really scrolling your feed for
-  inspiration like you tell yourself, or has it become hard or almost
-  impossible for you to spend any time at all by yourself, being bored, or
-  consuming slow media? Be brutally honest with yourself. Is it a crutch
-  to fill a void?
+But it has to be consumed in just the right amount, lest you burn
+yourself. It is up to you to find a middle-road that works for you, but
+when in doubt, it is better to err on the side of less rather than more.
+Whether you endlessly scroll feel-good videos, or are addicted to
+scrolling feeds, you need to think about the amount of time you spend on
+that media, and where the line of diminishing returns start. At what
+point have you maximized your time online, and at what point does
+consuming any more of it not lead to anything significant? The online
+Goldilocks zone is that fine border where you benefit most from it,
+without wasting any extra wasteful time. ### Being intentional Recently,
+I have grown shrewd of black-and-white thinking, preferring and enjoying
+more nuanced ways of evaluating the world. As such, I cannot declare
+these platforms or technology as the devil. (inter) Objectively, they do
+have the ability to improve our quality of life. Yet, people are
+laughably bad at controlling impulses, and are easily led by their
+instinct and intrinsic wiring.
 
-  How to be intentional
-  You need to find better ways of consuming and interacting with your
-  preferred media. Ways that are less destructive to your day to day life.
-  We need to get away as far as possible from the algorithms. Here are
-  some ways you you can manage various services and media: **Dumbphones**
-  you can do anything, but you wouldn't want to -> the benefits of using a
-  dumb-phone
-  https://www.creativeboom.com/features/the-smart-choice-why-creatives-should-switch-to-a-dumb-phone/
-  https://www.theglobeandmail.com/opinion/article-how-my-dumbphone-made-me-smarter/
-  #TODO split into separate post? **Instagram** **Youtube** **TikTok**
-  **Vinted** RSS feeds! your own curated stream with clear boundaries They
-  seem archaic, but are still widely used, and may become your best
-  friend. They allow you to be very picky about what you are being
-  presented.
+A solution I found helpful is being intentional. It is almost impossible and quite crude to simply avoid it
+all together. There is no need to completely throw out social media and
+digital consumption, but the way we interact with these systems is the
+culprit. The problem is less in the content itself (a symptom) and more
+in the way it is watched, consumed and interacted with. For many,
+looking from outside in, it has ceased to be entertainment or
+"inspiration", and rather has become a routine. An unconscious habit. An
+addiction, even. Ask yourself the question: What do I really want to
+gain from this interaction? ... Are you really scrolling your feed for
+inspiration like you tell yourself, or has it become hard or almost
+impossible for you to spend any time at all by yourself, being bored, or
+consuming slow media? Be brutally honest with yourself. Is it a crutch
+to fill a void?
+
+#### How to be intentional
+
+You need to find better ways of consuming and interacting with your
+preferred media. Ways that are less destructive to your day to day life.
+We need to get away as far as possible from the algorithms. Here are
+some ways you you can manage various services and media: **Dumbphones**
+you can do anything, but you wouldn't want to -> the benefits of using a
+dumb-phone
+https://www.creativeboom.com/features/the-smart-choice-why-creatives-should-switch-to-a-dumb-phone/
+https://www.theglobeandmail.com/opinion/article-how-my-dumbphone-made-me-smarter/
+#TODO split into separate post? **Instagram** **Youtube** **TikTok**
+**Vinted** RSS feeds! Your own curated stream with clear boundaries They
+seem archaic, but are still widely used, and may become your best
+friend. They allow you to be very picky about what you are being
+presented.
 
 #### Anti-human design
 
