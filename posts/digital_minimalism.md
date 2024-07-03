@@ -12,15 +12,9 @@ the loser always being the end user, leaving them insecure, empty and
 unfulfilled. At best its usually a slippery slope of time-waste, at
 worst a cause for depression, suicide and mental issues.
 
-#### Digital Goldilocks Zone
+#### Online media is a double-edged sword, and we suck at swordwielding
 
-Why intentional usage is the Goldilocks zone. enough to benefit from -
-but not enough to have a negative impact. Digital media and online
-content has benefits:
-
-- inspiration
-- entertainment
-- Milk
+- Many benefits, but oh so many downsides, so that for many it should not be worth it, yet they are coerced.
 
 But it has to be consumed in just the right amount, lest you burn
 yourself. It is up to you to find a middle-road that works for you, but
@@ -39,10 +33,19 @@ have the ability to improve our quality of life. Yet, people are
 laughably bad at controlling impulses, and are easily led by their
 instinct and intrinsic wiring.
 
-A solution I found helpful is being intentional. It is almost impossible and quite crude to simply avoid it
-all together. There is no need to completely throw out social media and
-digital consumption, but the way we interact with these systems is the
-culprit. The problem is less in the content itself (a symptom) and more
+#### Digital Goldilocks Zone
+
+Everyone, especially young people, should strive for a healthy, balanced digital presence. I call it the digital goldilocks zone.  It's a zone where you to reap all the benefits of technology, and more specifically, online media, while avoiding the psychological, relational and physically harmful effects of overuse and unwanted exposure.
+
+To get yourself into this zone, you have to ask youtself some analytical questions. These are meantt to sketch your intended usage and your actual behavior. 
+
+Once we have that clear picture, you can take action to alter the unwanted behavior and act more intentional.
+
+You could see intentional media consumption as a rough hewn block of marble. You can shave and sculpt it in such a way that the only thing left is a magnificent piece of habits and systems meticoulsly designed to maximuise your relationship with technology.
+
+The best tool in your arsenal is being intentional, and setup up your environments to cater to that. It is almost impossible and quite crude to simply avoid it all together. I also think there is no need to completely throw out social media and
+digital consumption. The way we interact with these systems is the
+real culprit. The problem is less in the content itself (a symptom) and more
 in the way it is watched, consumed and interacted with. For many,
 looking from outside in, it has ceased to be entertainment or
 "inspiration", and rather has become a routine. An unconscious habit. An
@@ -56,9 +59,28 @@ to fill a void?
 #### How to be intentional
 
 You need to find better ways of consuming and interacting with your
-preferred media. Ways that are less destructive to your day to day life.
+preferred media. Ways that are less destructive to your life.
+
+First, here are a few categories of digital media, ranked from worst to best
+
+1. Short-form content e.g. Tiktok, reels
+2. algorithmic heavy content e.g. Youtube
+3. Soft algos, like spotify and pinterest.
+
+When you analyse your digital media constumption, you should pay most attention to these more harmfull activities, as they have the biggest impact on your welbeing and time. I think we can all agree that a tiktokaddiction is way worse that a spotify addiction, in terms of psychological impact.
+
+
+**Some questions to ask yourself**
+
+- How much time do I want to spend with technology and digital media today?
+- How many hours a day do I spend on these categories?
+- What do I hope to gain from your interactions with this digital media?
+- What did you actually get from these interactions?
+- Why do you think you keep going back to this routine?
+
+
 We need to get away as far as possible from the algorithms. Here are
-some ways you you can manage various services and media: **Dumbphones**
+some ways you you can manage various services and media: **Dumbphones** ! link dumbphone article, else it would get too long.
 you can do anything, but you wouldn't want to -> the benefits of using a
 dumb-phone
 https://www.creativeboom.com/features/the-smart-choice-why-creatives-should-switch-to-a-dumb-phone/
@@ -69,6 +91,8 @@ seem archaic, but are still widely used, and may become your best
 friend. They allow you to be very picky about what you are being
 presented.
 
+*! write a separate blogpost to give guidelines on how to simplify and streamline contentstreams into something less abusive*
+
 #### Anti-human design
 
 Through and through designed with revenue in mind. You are a mere
@@ -77,3 +101,5 @@ those oh-so-sweet advertiser dollars. Nothing they do is for your
 benefit.
 
 #### Opinions
+
+These are some compiled conversations and interviews I had with people about the subject. This may serve as counter-arguments, reinforcements, or interesting points of view.
