@@ -102,4 +102,6 @@ benefit.
 
 #### Opinions
 
-These are some compiled conversations and interviews I had with people about the subject. This may serve as counter-arguments, reinforcements, or interesting points of view.
+These are some compiled conversations and interviews I had with people about the subject. These may serve as counter-arguments, reinforcements, or interesting points of view.
+
+**Rossen Chichkov** echos that technology, and especially phones, should serve as *tools*
