@@ -1,4 +1,5 @@
 ---
+abstract: "placeholder"
 isdraft: true
 title: Advocating Dumbphones
 date: 2024-06-26

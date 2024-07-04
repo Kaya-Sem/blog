@@ -17,7 +17,7 @@ layout: layout_index.html
 {% for post in collections.post %}
   {% if not post.data.isdraft %}
     <h2>{{ post.data.title }}</h2>
-    <p>{{ post.templateContent }}</p>
+    <p>{{ post.data.abstract }}</p>
   {% endif %}
 {% endfor %}
 

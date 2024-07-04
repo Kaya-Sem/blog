@@ -1,4 +1,5 @@
 ---
+abstract: "placeholder"
 isdraft: true
 title: Embrace Music Breaks
 date: 2024-06-28
