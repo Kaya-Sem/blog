@@ -18,6 +18,7 @@ layout: layout_index.html
   {% if not post.data.isdraft %}
     <h2>{{ post.data.title }}</h2>
     <p>{{ post.data.abstract }}</p>
+    <p>{{ post.url}}</p>
   {% endif %}
 {% endfor %}
 
