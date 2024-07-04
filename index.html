@@ -1,3 +1,4 @@
+
 ---
 layout: layout_index.html
 ---
@@ -7,12 +8,17 @@ layout: layout_index.html
 <hr />
 <div class="horizontal-scroll">
   {% for post in collections.post %}
-  <a href="{{ post.url }}">{{ post.data.title }}</a>
+    {% if not post.data.isdraft %}
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+    {% endif %}
   {% endfor %}
 </div>
 <hr />
 
 {% for post in collections.post %}
-<h2>{{ post.data.title }}</h2>
-<p>{{ post.templateContent }}</p>
+  {% if not post.data.isdraft %}
+    <h2>{{ post.data.title }}</h2>
+    <p>{{ post.templateContent }}</p>
+  {% endif %}
 {% endfor %}
+
