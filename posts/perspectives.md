@@ -1,4 +1,5 @@
 ---
+isdraft: true
 title: Perspectives
 date: 2024-06-26
 ---

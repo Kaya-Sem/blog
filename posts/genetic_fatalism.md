@@ -1,4 +1,5 @@
 ---
+isdraft: true
 title: Genetic Fatalism
 date: 2024-06-26
 ---
