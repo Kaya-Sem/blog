@@ -1,7 +1,7 @@
 ---
-abstract: "On sensory downtime and 3 downfalls of 24/7 music."
+abstract: "On sensory downtime and three downfalls of music addiction."
 isdraft: false 
-title: Embrace Music Breaks
+title: Embracing Music Breaks
 date: 2024-07-06
 ---
 
