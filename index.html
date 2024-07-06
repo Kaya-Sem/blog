@@ -5,6 +5,19 @@ layout: layout_index.html
 <p>I live off abstract concepts like light, minerals and osmosis.</p>
 
 <hr />
+
+
+{% for post in collections.post %}
+  {% if not post.data.isdraft %}
+    <div class="post-item">
+      <strong>{{ post.data.title }}</strong>: {{ post.data.abstract }}
+      <a href="{{ post.url }}" class="arrow-link">&rarr;</a>
+    </div>
+  {% endif %}
+{% endfor %}
+
+
+<hr />
 <div class="horizontal-scroll">
   {% for post in collections.post %}
     {% if not post.data.isdraft %}
@@ -12,12 +25,3 @@ layout: layout_index.html
     {% endif %}
   {% endfor %}
 </div>
-<hr />
-
-{% for post in collections.post %}
-  {% if not post.data.isdraft %}
-    <h3>{{ post.data.title }}</h3>
-    <p>{{ post.data.abstract }}</p>
-    <a href="{{ post.url }}">{{ "go to post" }}</a>
-  {% endif %}
-{% endfor %}

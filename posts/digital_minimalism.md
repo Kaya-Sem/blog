@@ -1,6 +1,6 @@
 ---
 abstract: "placeholder"
-isdraft: true
+isdraft: false
 title: Digital Minimalism
 date: 2024-06-26
 ---

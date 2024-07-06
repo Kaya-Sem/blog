@@ -31,3 +31,20 @@
   /*border-radius: 4px;*/ /* Optional: Rounded corners for better aesthetics */
 }
 
+.post-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.post-item strong {
+  margin-right: 5px;
+}
+
+.post-item .arrow-link {
+  margin-left: 10px;
+  text-decoration: none;
+  color: blue;
+  font-size: 1.5em; /* Adjust size as needed */
+}
+
