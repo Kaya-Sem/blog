@@ -1,8 +1,8 @@
 ---
-abstract: "On sensory downtime and the downfalls of 24/7 music."
+abstract: "On sensory downtime and 3 downfalls of 24/7 music."
 isdraft: false 
 title: Embrace Music Breaks
-date: 2024-06-28
+date: 2024-07-06
 ---
 
 An problem modern phones and mp3 players pose is that they allow us to listen to music at any time of the day, anywhere. In between activities, while waiting for public transport, on public transport, in queues and while walking.
