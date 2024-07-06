@@ -17,7 +17,7 @@
       </nav>
       <hr />
       <h1>{{ title }}</h1>
-      <p>{{ date }}</p>
+      <p>{{ date | date("MMMM dd, yyyy") }}</p>
     </header>
     <main>{{ content }}</main>
   </body>
