@@ -1,7 +1,7 @@
 ---
 abstract: "On sensory downtime and three downfalls of music addiction."
 isdraft: false 
-title: Embracing Music Breaks
+title: Music Junkies
 date: 2024-07-06
 ---
 
