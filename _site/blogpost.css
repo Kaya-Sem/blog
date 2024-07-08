@@ -30,9 +30,6 @@
   color: inherit;
 }
 
-
-/* CSS for small post excerp and nav on frontpage */
-
 .post-item {
   display: flex;
   align-items: center;
@@ -46,6 +43,34 @@
 .post-item .arrow-link {
   margin-left: 10px;
   text-decoration: none;
-  color: blue;
-  font-size: 1.5em;
+  color: inherit;
+  font-size: 1.5em; /* Adjust size as needed */
 }
+
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  max-width: 800px; /* Specify the maximum width you want */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 20px; /* Add padding to keep content away from edges */
+}
+
+.horizontal-scroll {
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+  white-space: nowrap; /* Ensure links stay on one line */
+  padding: 10px; /* Add padding for spacing */
+}
+
+/* Other styles for links, etc. */
