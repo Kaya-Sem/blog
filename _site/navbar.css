@@ -29,23 +29,3 @@
   text-decoration: none;
   color: inherit;
 }
-
-
-/* CSS for small post excerp and nav on frontpage */
-
-.post-item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 10px;
-}
-
-.post-item strong {
-  margin-right: 5px;
-}
-
-.post-item .arrow-link {
-  margin-left: 10px;
-  text-decoration: none;
-  color: blue;
-  font-size: 1.5em;
-}
