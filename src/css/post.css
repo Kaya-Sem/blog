@@ -1,18 +1,28 @@
 /* CSS for small post excerp and nav on frontpage */
 
 .post-item {
-  display: flex;
-  align-items: center;
   margin-bottom: 10px;
 }
 
-.post-item strong {
+.post-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.post-title strong {
   margin-right: 5px;
 }
 
 .post-item .arrow-link {
-  margin-left: 10px;
   text-decoration: none;
   color: blue;
   font-size: 1.5em;
+  margin-left: 10px;
 }
+
+.post-content {
+  max-width: 600px; /* Adjust this value as needed */
+  margin-left: 10px;
+}
+
