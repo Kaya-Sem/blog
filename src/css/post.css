@@ -22,7 +22,6 @@
 }
 
 .post-content {
-  max-width: 600px; /* Adjust this value as needed */
+  max-width: 600px;
   margin-left: 10px;
 }
-
