@@ -1,7 +1,7 @@
 ---
 abstract: "On sensory downtime and three downfalls of music addiction."
 isdraft: false 
-title: Stop Being A Music Junkie
+title: Mini Music Sabbats
 date: 2024-07-06
 ---
 
