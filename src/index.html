@@ -13,9 +13,10 @@ layout: layout_index.html
         <strong>{{ post.data.title }}</strong>
         <a href="{{ post.url }}" class="arrow-link">&rarr;</a>
       </div>
-      <div class="post-content">
+    </div>
+
+    <div class="post-content">
         {{ post.data.abstract }}
-      </div>
     </div>
   {% endif %}
 {% endfor %}
